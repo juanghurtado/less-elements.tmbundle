@@ -4,6 +4,24 @@
 <dict>
 	<key>name</key>
 	<string>less-elements</string>
+	<key>ordering</key>
+	<array>
+		<string>4DA350C4-8332-4EFC-A461-6C38DAC84437</string>
+		<string>1DC83C44-DFCB-4AF9-836A-8311BE23CC21</string>
+		<string>383D72F3-410D-4F4B-AE12-21E9ECE8B51C</string>
+		<string>7B16674A-1034-4413-8D00-AC5E8619A716</string>
+		<string>3F588C1A-4FFC-4197-862F-2D02BB10BBFB</string>
+		<string>03817CDB-BC79-43C4-A45C-D653E66CC501</string>
+		<string>B3BBB0FE-8A80-4C26-89B5-55E6AE6E2A78</string>
+		<string>0A75ECB0-29A5-42D4-82E3-72D2E62DBEE9</string>
+		<string>F6D7E06C-7F86-425B-AF16-89133887671F</string>
+		<string>17E36B51-D3EE-411B-818D-637BA82A7E23</string>
+		<string>A87581A1-E7FD-4A12-BD17-9A0368C3DEB5</string>
+		<string>B6262D1B-F1AA-4BE7-B804-20B500E20716</string>
+		<string>E15001DC-D989-4E1D-928C-188F4B0D94BB</string>
+		<string>EBC37E38-2A7C-47D5-B9A9-6C1B1B7ED98C</string>
+		<string>515D9CCB-27BF-463C-BA73-464C546B593E</string>
+	</array>
 	<key>uuid</key>
 	<string>AD3AACC0-221C-4465-96A0-9E59BC164CB0</string>
 </dict>
