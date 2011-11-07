@@ -25,15 +25,15 @@ mv juanghurtado-less-elements.tmbundle* "less-elements.tmbundle"
 osascript -e 'tell app "TextMate" to reload bundles'
 ```
 
-## What is LESS Elements
+## What is LESS Elements?
 
 [LESS Elements](http://lesselements.com/ "LESS Elements: a collection of useful LESS mixins") is a set of useful mixins for the LESS CSS pre-processor to help you cut down the size of your stylesheets.
 
-## What is LESS
+## What is LESS?
 
 [LESS](http://lesscss.org/ "LESS &laquo; The Dynamic Stylesheet language") extends CSS with dynamic behavior such as variables, mixins, operations and functions.
 
-## What is Textmate
+## What is Textmate?
 
 [TextMate](http://macromates.com/ "TextMate — The Missing Editor for Mac OS X") brings Apple's approach to operating systems into the world of text editors. By bridging UNIX underpinnings and GUI, TextMate cherry-picks the best of both worlds to the benefit of expert scripters and novice users alike.
 
