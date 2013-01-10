@@ -1,6 +1,6 @@
 # LESS Elements TextMate bundle
 
-This [TextMate](http://macromates.com/ "TextMate — The Missing Editor for Mac OS X") Bundle supports version 0.6 of [LESS Elements](http://lesselements.com/ "LESS Elements: a collection of useful LESS mixins").
+This [TextMate](http://macromates.com/ "TextMate — The Missing Editor for Mac OS X") Bundle supports version 0.9 of [LESS Elements](http://lesselements.com/ "LESS Elements: a collection of useful LESS mixins").
 
 ## Install
 
